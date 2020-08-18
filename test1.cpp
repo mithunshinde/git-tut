@@ -1,1 +1,5 @@
-/* test1 version 1 */
+/* test1 version 2*/
+int main()
+{
+    return 0;
+}
